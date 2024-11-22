@@ -1,3 +1,6 @@
+## Source code from https://courses.spatialthoughts.com/python-dataviz.html#publishing-apps-with-streamlit-cloud
+## Date: 2024-11-21
+
 import folium
 import streamlit as st
 from streamlit_folium import st_folium
